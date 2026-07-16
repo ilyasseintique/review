@@ -1,5 +1,5 @@
 import React from "react"
-import watch_dial from "./assets/Gemini_Generated_Image_jev2njjev2njjev2.png"
+import watch_dial from "../assets/Gemini_Generated_Image_jev2njjev2njjev2.png"
 import {Link} from "react-router-dom"
 
 export default function Navbar(){

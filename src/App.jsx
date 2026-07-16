@@ -1,6 +1,6 @@
 import React from 'react'
-import Nav from "./navy"
-import Home from "./Home"
+import Nav from "./Components/navy"
+import Home from "./Components/Home"
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 function App() {
   return (
